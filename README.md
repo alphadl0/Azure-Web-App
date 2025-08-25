@@ -1,2 +1,7 @@
-# Azure-Web-App
-This lab demonstrates how I deployed a Blazor web application to Azure App Service and enabled full observability using Application Insights—without modifying the application code. I configured autoinstrumentation at the service level, allowing Azure to collect telemetry data such as failed requests, server response times, and availability metrics.
+# Blazor Web App
+Web App with:
+- Runtime: .NET 8 (LTS)
+- OS: Windows
+- Pricing: Free F1
+
+<img width="3531" height="2693" alt="rg-WebApp" src="https://github.com/user-attachments/assets/90dea82a-8daa-43a1-8a57-dad376822c7e" />
